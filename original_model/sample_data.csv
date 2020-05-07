@@ -1,0 +1,11 @@
+id,frame,path
+1,1,.\\sample_data\\sample_fake\\2dmask_2_01.png
+1,2,.\\sample_data\\sample_fake\\2dmask_2_02.png
+1,3,.\\sample_data\\sample_fake\\2dmask_2_03.png
+1,4,.\\sample_data\\sample_fake\\2dmask_2_04.png
+1,5,.\\sample_data\\sample_fake\\2dmask_2_05.png
+2,1,.\\sample_data\\sample_real\\real_48_01.png
+2,2,.\\sample_data\\sample_real\\real_48_02.png
+2,3,.\\sample_data\\sample_real\\real_48_03.png
+2,4,.\\sample_data\\sample_real\\real_48_04.png
+2,5,.\\sample_data\\sample_real\\real_48_05.png
