@@ -42,6 +42,6 @@ python3 predict_camera.py
 
 ### Predicted samples:
 
- Original video | Spoofed video
+ Original video | Spoofed video (same video captured from phone)
 ----------|--------------
 ![](data/real_gif.gif) | ![](data/spoof_gif.gif) |
