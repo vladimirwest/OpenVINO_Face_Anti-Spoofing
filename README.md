@@ -39,3 +39,9 @@ python3 predict_image.py -i %image_path%
 ```
 python3 predict_camera.py
 ```
+
+### Predicted samples:
+
+ Original video | Spoofed video
+----------|--------------
+![](data/real_gif.gif) | ![](data/spoof_gif.gif) |
